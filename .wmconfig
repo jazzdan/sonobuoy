@@ -1,0 +1,6 @@
+{
+  "pointer": "sonobuoy",
+  "ignorePatterns": [
+    ".git/**"
+  ]
+}
